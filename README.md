@@ -1,5 +1,7 @@
 # Bonjour, je suis Loris👋
 
+[LinkedIn](https://www.linkedin.com/in/loris-r-9b4716201/)
+
 Ingénieur cybersécurité en cours de formation je combine curiosité et persévérance pour relever les défis techniques et protéger les systèmes d’information.
 
 ## 🎯 Objectif
