@@ -41,13 +41,11 @@ Je me distingue par ma **curiosité technique** et ma **persévérance** face à
 
 ## 📚 Formation
 
-- **Ingénieur Cybersécurité** – DataScientest
+[Formation Ingénieur Cybersécurité - DataScientest](https://datascientest.com/formation-ingenieur-cybersecurite-alternance)
 
 ---
 
 ## 📜 Certification 
-
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?logo=amazon-aws&logoColor=white)
 
 
 - **Comptia Security +** - (en cours) 
