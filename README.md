@@ -45,6 +45,6 @@ Je me distingue par ma **curiosité technique** et ma **persévérance** face à
 
 ## 🤝 Echangeons !
 
-Que vous soyez professionnel établi ou passionné débutant, n’hésitez pas à visiter mes projets, à vous abonner et à échanger avec moi sur la cybersécurité, l’automatisation ou la sécurité cloud !
+Que vous soyez professionnel établi ou passionné débutant, n’hésitez pas à visiter mes projets, à vous abonner et à échanger avec moi sur la cybersécurité ! 
 
 Merci de votre visite et au plaisir de collaborer ou d’apprendre ensemble !
