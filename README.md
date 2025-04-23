@@ -45,7 +45,7 @@ Je me distingue par ma **curiosité technique** et ma **persévérance** face à
 
 ---
 
-##Certification 
+## Certification 
 
 
 - **Comptia Security +** - (en cours)
