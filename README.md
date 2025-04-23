@@ -48,7 +48,8 @@ Je me distingue par ma **curiosité technique** et ma **persévérance** face à
 ## 📜 Certification 
 
 
-- **Comptia Security +** - (en cours)
+- **Comptia Security +** - (en cours) ![image](https://github.com/user-attachments/assets/9f766919-7ffd-4929-92b0-b052aa15484d)
+
 - **Cisco Networking Academy Learn-A-Thon** - 2024
 - **Cisco CCNA : Enterprise Networking Security and Automation** - 2023
 
