@@ -47,8 +47,8 @@ Je me distingue par ma **curiosité technique** et ma **persévérance** face à
 
 ## 📜 Certification 
 
-[![DataScientest](https://img.shields.io/badge/Certification-DataScientest-blue)](https://datascientest.com/)
-[![SecNumAcadémie](https://img.shields.io/badge/Certification-SecNumAcadémie-success)](https://secnumacademie.gouv.fr/)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?logo=amazon-aws&logoColor=white)
+
 
 - **Comptia Security +** - (en cours) 
 - **Cisco Networking Academy Learn-A-Thon** - 2024
