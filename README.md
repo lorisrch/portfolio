@@ -1,7 +1,5 @@
 # Bonjour, je suis Loris👋
 
-[LinkedIn](https://www.linkedin.com/in/loris-r-9b4716201/)
-
 Ingénieur cybersécurité en cours de formation je combine curiosité et persévérance pour relever les défis techniques et protéger les systèmes d’information.
 
 ## 🎯 Objectif
@@ -61,3 +59,5 @@ Je me distingue par ma **curiosité technique** et ma **persévérance** face à
 Que vous soyez professionnel établi ou passionné débutant, n’hésitez pas à visiter mes projets, à vous abonner et à échanger avec moi sur la cybersécurité ! 
 
 Merci de votre visite et au plaisir de collaborer ou d’apprendre ensemble !
+
+[LinkedIn](https://www.linkedin.com/in/loris-r-9b4716201/)
