@@ -47,9 +47,10 @@ Je me distingue par ma **curiosité technique** et ma **persévérance** face à
 
 ## 📜 Certification 
 
+[![DataScientest](https://img.shields.io/badge/Certification-DataScientest-blue)](https://datascientest.com/)
+[![SecNumAcadémie](https://img.shields.io/badge/Certification-SecNumAcadémie-success)](https://secnumacademie.gouv.fr/)
 
 - **Comptia Security +** - (en cours) 
-
 - **Cisco Networking Academy Learn-A-Thon** - 2024
 - **Cisco CCNA : Enterprise Networking Security and Automation** - 2023
 
