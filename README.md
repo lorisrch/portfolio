@@ -39,7 +39,7 @@ Je me distingue par ma **curiosité technique** et ma **persévérance** face à
 
 ## 📚 Formation
 
-[Formation Ingénieur Cybersécurité - DataScientest](https://datascientest.com/formation-ingenieur-cybersecurite-alternance)
+[Formation Ingénieur Cybersécurité - DataScientest](https://datascientest.com/formation-ingenieur-cybersecurite-alternance) 2025-2027
 
 ---
 
