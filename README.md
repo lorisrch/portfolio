@@ -1,6 +1,6 @@
 # Bonjour, je suis Loris👋
 
-Etudiant en cybersécurité en alternance je combine curiosité et persévérance pour relever les défis techniques et protéger les systèmes d’information.
+Étudiant en cybersécurité en alternance je combine curiosité et persévérance pour relever les défis techniques et protéger les systèmes d’information.
 
 ## 🎯 Objectif
 
@@ -56,7 +56,7 @@ Je me distingue par ma **curiosité technique** et ma **persévérance** face à
 
 ## 🤝 Echangeons !
 
-Que vous soyez professionnel ou étudiant , n'hésitez pas à vous abonner et à échanger avec moi sur la cybersécurité ! 
+Que vous soyez professionnel ou étudiant, n'hésitez pas à vous abonner et à échanger avec moi sur la cybersécurité ! 
 
 Merci de votre visite et au plaisir de collaborer ou d’apprendre ensemble !
 
