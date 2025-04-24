@@ -26,8 +26,8 @@ Spécialisé en cybersécurité, je souhaite rejoindre une équipe engagée pour
     Mise en place de scans réguliers, développement de scripts pour l’analyse des résultats, reporting.
 - **Déploiement et administration SentinelOne**  
     Installation, configuration, administration avancée et gestion des incidents
-- **Mise à jour et gestion des correctifs logiciels**
-    Suivi, application et vérification des patchs de sécurité pour garantir la conformité et la robustesse des systèmes.
+- **Mise à jour et gestion des correctifs logiciels**  
+Suivi, application et vérification des patchs de sécurité pour garantir la conformité et la robustesse des systèmes.
 
 ---
 
