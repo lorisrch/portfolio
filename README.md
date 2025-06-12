@@ -39,7 +39,7 @@ Je me distingue par ma **curiosité technique** et ma **persévérance** face à
 
 ## 📚 Formation
 
-[Formation Ingénieur Cybersécurité - DataScientest](https://datascientest.com/formation-ingenieur-cybersecurite-alternance) 2025-2027
+[Mastère manager en infrastructures et cybersécurité des SI - CESI](https://www.cesi.fr/formation/mastere-professionnel-manager-en-infrastructures-et-cybersecurite-des-si-en-alternance-2371644/) 2023-2025
 
 ---
 
