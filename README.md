@@ -46,7 +46,7 @@ Je me distingue par ma **curiosité technique** et ma **persévérance** face à
 ## 📜 Certification 
 
 
-- [CompTIA Security+ - CompTIA Security+ Certification](https://www.comptia.org/certifications/security#overview) - en cours 
+- [CompTIA Security+ - CompTIA Security+ Certification](https://www.comptia.org/certifications/security#overview) - 2025 
 - [Cisco Networking Academy Learn-A-Thon : NetAcad Learn-A-Thon](https://www.netacadlearnathon.com) - 2024
 - [Cisco CCNA : CCNA: Enterprise Networking, Security, and Automation](https://www.netacad.com/courses/ccna-enterprise-networking-security-automation?courseLang=en-US) - 2023
 
